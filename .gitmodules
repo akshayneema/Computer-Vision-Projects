@@ -1,9 +1,0 @@
-[submodule "Gesture-Detection"]
-	path = Gesture-Detection
-	url = https://github.com/akshayneema/Gesture-Detection
-[submodule "Augmented-Reality"]
-	path = Augmented-Reality
-	url = https://github.com/akshayneema/Augmented-Reality
-[submodule "Stitch-Panorama"]
-	path = Stitch-Panorama
-	url = https://github.com/akshayneema/Stitch-Panorama
